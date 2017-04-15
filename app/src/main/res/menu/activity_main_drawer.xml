@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/tasks"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Поручения" />
+        <item
+            android:id="@+id/activs"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Активы" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Номенклатура" />
+        <item
+            android:id="@+id/documents"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Документы" />
+        <item
+            android:id="@+id/nav_update"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Обновить" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+        </menu>
+    </item>
+
+</menu>

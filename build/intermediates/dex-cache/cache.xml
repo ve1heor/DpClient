@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Absurd\.android\build-cache\cbdb367adfff51df0f2611c8bec13008b4fb05d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Absurd\Desktop\DpClient\app\build\intermediates\pre-dexed\debug\classes_658119ef74fcf5cd4f2dc310e19dbafb0c4eb8d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Absurd\.android\build-cache\40d6f25f374cf4a5b5174aba6a9f830bee67e7bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Absurd\Desktop\DpClient\app\build\intermediates\pre-dexed\debug\classes_28b873874435af16b1e341b00f1ae9c8901d0a9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Absurd\Desktop\DpClient\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Absurd\Desktop\DpClient\app\build\intermediates\pre-dexed\debug\volley_3d9ff96f89404865d27ad6cd2a942e9419ce5a59.jar" />
+    </item>
+
+</items>
